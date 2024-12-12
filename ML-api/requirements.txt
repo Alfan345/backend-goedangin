@@ -1,0 +1,9 @@
+Flask==2.3.2
+tensorflow==2.17.1
+pandas==2.1.1
+numpy==1.26.0
+google-cloud-storage==2.9.0
+sqlalchemy==2.0.20
+pymysql==1.1.0
+gunicorn==21.1.0
+scikit-learn==1.6.0
